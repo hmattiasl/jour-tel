@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funktioner>
+	<funktion>
+		<namn>Driftansvarig IVA</namn>
+		<kort>DAIVA</kort>
+		<telefonnr>45230</telefonnr>
+		<tid>07:30 - 15:30</tid>
+		<medinetrad>day-10-</medinetrad>
+		<helg>Nej</helg>
+	</funktion>
+	<funktion>
+		<namn>IVA-jour</namn>
+		<kort>IJ</kort>
+		<telefonnr>45240</telefonnr>
+		<tid>07:30 - 15:30</tid>
+		<medinetrad>day-14-</medinetrad>
+		<helg>Nej</helg>
+	</funktion>
+	<funktion>
+		<namn>Narkos Op-jour</namn>
+		<kort>NJ</kort>
+		<telefonnr>45133</telefonnr>
+		<tid>07:30 - 16:00</tid>
+		<medinetrad>day-8-</medinetrad>
+		<helg>Nej</helg>
+	</funktion>
+	<funktion>
+		<namn>Block2</namn>
+		<kort>B1</kort>
+		<telefonnr>45131</telefonnr>
+		<tid>07:30 - 16:00</tid>
+		<medinetrad>day-38-</medinetrad>
+		<helg>Nej</helg>
+	</funktion>
+	<funktion>
+	    <namn>Block3</namn>
+	    <kort>B2</kort>
+	    <telefonnr>45132</telefonnr>
+	    <tid>07:30-16:00</tid>
+	    <medinetrad>day-39-</medinetrad>
+	    <helg>Nej</helg>
+	</funktion>
+	<funktion>
+	    <namn>Primärjour natt</namn>
+	    <kort>PJN</kort>
+	    <telefonnr>45240</telefonnr>
+	    <tid>15:30 - 08:00</tid>
+	    <medinetrad>day-19-</medinetrad>
+	    <helg>Ej Fredag</helg>
+	</funktion>
+	<funktion>
+	    <namn>Bakjour</namn>
+	    <kort>BJV</kort>
+	    <telefonnr>45230</telefonnr>
+	    <tid>15:00 - 08:00</tid>
+	    <medinetrad>day-20-</medinetrad>
+	    <helg>Nej</helg>
+	</funktion>
+	<funktion>
+	    <namn>Primärjour dag helg</namn>
+	    <kort>PJHD</kort>
+	    <telefonnr>45240</telefonnr>
+	    <tid>08:00 - 17:40</tid>
+	    <medinetrad>day-18-</medinetrad>
+	    <helg>Ja</helg>
+	</funktion>
+	<funktion>
+	    <namn>Primärjour fredag natt</namn>
+	    <kort>PJFN</kort>
+	    <telefonnr>45240</telefonnr>
+	    <tid>14:45 - 08:30</tid>
+	    <medinetrad>day-19-</medinetrad>
+	    <helg>Fredag</helg>
+	</funktion>
+
+	<funktion>
+	    <namn>Bakjour helg</namn>
+	    <kort>BJH</kort>
+	    <telefonnr>45230</telefonnr>
+	    <tid>08:00 - 08:00</tid>
+	    <medinetrad>day-20-</medinetrad>
+	    <helg>Ja</helg>
+	</funktion>
+	<funktion>
+	    <namn>Primärjour natt helg</namn>
+	    <kort>PJHN</kort>
+	    <telefonnr>45240</telefonnr>
+	    <tid>17:40 - 08:30</tid>
+	    <medinetrad>day-19-</medinetrad>
+	    <helg>Ja</helg>
+	</funktion>
+
+	
+	
+</funktioner>
